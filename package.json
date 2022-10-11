@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Guilherme Mutão's Portfolio",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeMutao/portfolio.git"
+  },
+  "author": "@GuilhermeMutao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuilhermeMutao/portfolio/issues"
+  },
+  "homepage": "https://github.com/GuilhermeMutao/portfolio#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
